@@ -102,7 +102,7 @@ _Wait for everything to load, will take some time_
 
 If it all worked you should see something like this:
 
-<img src="Screenshot_firefox_winodws.png">
+<img src="Screenshot_firefox_winodws.png" width=75% height=75%>
 
 ___
 
