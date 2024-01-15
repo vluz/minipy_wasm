@@ -96,6 +96,8 @@ You will be prompted with the certificate password
 
 Go to `https://<your_ip>:8080`
 
+Accept the self-signed certificate
+
 _Wait for everything to load, will take some time_
 
 If it all worked you should see something like this:
