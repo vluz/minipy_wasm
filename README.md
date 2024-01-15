@@ -108,6 +108,6 @@ ___
 
 Also works on Android
 
-<img src="Screenshot_firefox_mobile.jpg">
+<img src="Screenshot_firefox_mobile.jpg" width=25% height=25%>
 
 ---
