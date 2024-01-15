@@ -1,0 +1,1 @@
+Put out.wasm in this dir
