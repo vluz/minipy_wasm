@@ -54,8 +54,8 @@ Change directory to the root of the repository
 sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout ./certs/server.key -out ./certs/server.crt
 `   
 Answer all the questions as you see fit   
-The one important thing you'll need to fill out is the Common Name.    
-You'll want to set to your server's IP address or domain name.
+The one important thing you'll need to fill out is the "Common Name"    
+You'll want to set to your server's IP address or domain name
 
 Take note of the certificate password used
 
